@@ -111,3 +111,17 @@ Yes of course. But only if they are available!
   - protects the high risk persons
   - accelerates herd immunization
   - accelerates a general recovery
+
+## This is all to abstract. Give me a concrete example.
+
+- low risk people help high risk people by shopping for them:
+  - they get just as infected as others
+  - they spread the virus while infected just as others
+    - to their loved ones
+    - to their community
+    - on the wares they are handling
+    - to other shopping helpers in the supermarket
+    - to the persons they wanted to help
+
+- immunized people don't have this issues
+  - disinfected wares from immunized people are safe
