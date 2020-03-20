@@ -74,3 +74,13 @@
 
 - certified immunized persons are the most valuable asset there in a pandemic
 - induced infection and quarantined self-immunization is currently the only way increase the number of certified immunized persons
+
+## Aren't vaccinations a much better alternative?
+
+Yes of course. But only if they are available!
+
+## When is it time to end the CQSI program?
+
+- when a vaccination become available
+- when reliable antibody tests become available and enough people are positive
+- when no suitable candidates are left
