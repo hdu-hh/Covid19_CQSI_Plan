@@ -1,8 +1,8 @@
 # CQSI Frequently Asked Questions and Answers
 
-## MDs are desperately needed for the non-induced infections already!
+## MDs are desperately needed for non-induced infections already!
 
-- there is a large number of infected MDs
+- there is already a large number of infected MDs
   - most of them with feeble symptoms are sent into home quarantine
   - they are perfect candidates as "embedded scientists" in quarantine groups
 
@@ -23,15 +23,15 @@
 
 ## What would immunized MDs do for CQSI candidates?
 
-- checking for risk factors
-- informing of the risk
-- vetoing high risk volunteers
-- verifying the self-immunization
+- check risk factors
+- inform about the risk
+- veto high risk volunteers
+- verify self-immunization
 
 ## What would immunized psychologists do for CQSI candidates?
 
-- checking the motivation
-- checking the fitness for strict quarantine in a group
+- check the motivation
+- check fitness for strict quarantine in a group
 
 ## Why would anyone volunteer as CQSI candidate?
 
@@ -49,7 +49,7 @@
 
 - low risk factors
 - full conciousness to make the voluntary decision
-- fitness for quarantine in a group
+- fitness for strict quarantine in a group
 
 ### Who should first get into controlled quarantine?
 
@@ -57,7 +57,7 @@
 
 ### Who should go next into controlled quarantine?
 
-- high probability of existing immunization acquired with least symptoms
+- high probability of existing immunity acquired with least symptoms
 
 ### And then?
 
@@ -70,8 +70,9 @@
   - for needing less resources to help
   - for stabilizing the supply chain
 
-## Don't induced infection waste resources that are desperately needed elsewhere?
+## Wouldn't induced infection waste resources that are desperately needed elsewhere?
 
+- "[back-burning](https://en.wikipedia.org/wiki/Controlled_burn)" is a proven strategy for fighting [wildfires](https://en.wikipedia.org/wiki/Wildfire)
 - certified immunized persons are the most valuable asset there in a pandemic
 - induced infection and quarantined self-immunization is currently the only way increase the number of certified immunized persons
 
@@ -125,3 +126,14 @@ Yes of course. But only if they are available!
 
 - immunized people don't have this issues
   - disinfected wares from immunized people are safe
+
+## What are the kown risk factors?
+
+Currently these risk factors are known:
+
+- high blood preasure
+- heart conditions
+- secondary infections
+- lung diseases
+- diabetes
+- age

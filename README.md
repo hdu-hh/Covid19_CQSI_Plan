@@ -4,7 +4,7 @@
 
 Volunteers with low risk factors should get facilities to self-immunize in a controlled and quarantined environment.
 
-## Axioms
+## Axiom
 
 - people with proven immunity are the most valuable resource in this pandemic
 
@@ -34,7 +34,7 @@ The only way to prove self-immunization is currently when all of these points ar
 
 ## No "Measle Party"
 
-The difference to a "measle party" is that
+The difference to a "[measles party](https://en.wikipedia.org/wiki/Pox_party)" is that
 
 - there is no vaccination against CoVid-19 yet
 - medical pre-examination of the risk factors
@@ -51,11 +51,11 @@ The difference to a "measle party" is that
 
 ## Herd-Immunization
 
-The virus is very infectious and already so wide-spread that experts agree, that at least 70% of the population will be infected until **"herd immunization" will stop the infection rate**.
+The virus is very infectious and already so wide-spread that experts agree, that at least 70% of the population will be infected until **"[herd immunity](https://en.wikipedia.org/wiki/Herd_immunity)" will stop the infection rate**.
 
 ### Alternatives
 
-If herd-immunization is currently the only way to stop Covid-19 from doing more harm then the current alternatives have to be evaluated:
+The current alternatives have to be evaluated:
 
 #### Uncontrolled Spreading
 
@@ -64,7 +64,7 @@ If herd-immunization is currently the only way to stop Covid-19 from doing more 
   - an overloaded health system is catastrophic
 - the supply chain is impacted by sick leaves, etc.
 
-#### Slowed Spreading ("Flattened Curve")
+#### Slowed Spreading ("[Flattened Curve](https://flattenthecurve.com)")
 
 - fewer high risk people have to suffer
 - the health system may stay within capacity
@@ -86,11 +86,6 @@ Not yet available.
 
 Not yet available.
 
-## Currently Kown Risk Factors
+## Frequently Asked Questions
 
-- high blood preasure
-- heart conditions
-- secondary infections
-- lung diseases
-- diabetes
-- age
+Please see the [FAQ](FAQ.md).
