@@ -8,19 +8,20 @@ Volunteers with low risk factors should get facilities to self-immunize in a con
 
 - people with proven immunity are the most valuable resource in this pandemic
 
-## Current Status
+## Current Status of the Pandemic
 
 - there is no vaccination yet
-- there is no reliable test on antibodies yet
+- there is no test for infection that works immediately after the infection
+- there is no reliable test for antibodies yet
 - the risk factors of the infection are known
-- most infected don't know of their infection at least for some days
-- un-quarantined infections drive this epidemic
+- most infected don't know of their infection for at least some days
+- un-quarantined infections drive this pandemic
 - the test coverage of infection candidates is currently way below 100%
 - these candidates are often sent into home-quarantine
 
 ## No Reliable Self-Immunization Test Available Yet
 
-The only way to prove self-immunization is currently when all of these points are true.
+The only way to prove self-immunization is currently when all of these points are true:
 
 * infected contact and typical symptoms
 * positive test for Covid-19 infection
@@ -33,7 +34,7 @@ The only way to prove self-immunization is currently when all of these points ar
 
 ## No "Measle Party"
 
-The difference to a "measle party" is
+The difference to a "measle party" is that
 
 - there is no vaccination against CoVid-19 yet
 - medical pre-examination of the risk factors
@@ -54,13 +55,13 @@ The virus is very infectious and already so wide-spread that experts agree, that
 
 ### Alternatives
 
-If herd-immunization is currently the only way to stop Covid-19 from doing more harm then the current alternatives have to be evaluated
+If herd-immunization is currently the only way to stop Covid-19 from doing more harm then the current alternatives have to be evaluated:
 
 #### Uncontrolled Spreading
 
 - high risk people suffer severely
 - the health system may be overloaded
- - an overloaded health system is catastrophic
+  - an overloaded health system is catastrophic
 - the supply chain is impacted by sick leaves, etc.
 
 #### Slowed Spreading ("Flattened Curve")
@@ -72,20 +73,20 @@ If herd-immunization is currently the only way to stop Covid-19 from doing more 
 
 #### Controlled Infection and Quarantine
 
-- self-harm is taboo in most communities
-- low-risk people may get infected that may not be infected
-- immunization is proven
-- high risk persons can be shielded by a proven immunized environment
+- self-harm is taboo in most cultures
+- volunteers get infected that may not become infected
+- self-immunization is proven by a disappeard infection
+- high risk persons get shielded by a proven immunized environment
 
 #### Full Coverage Virus Test
 
-Currently not available.
+Not yet available.
 
 #### Full Coverage Antibody Test
 
-Currently not available.
+Not yet available.
 
-## Risk Factors
+## Currently Kown Risk Factors
 
 - high blood preasure
 - heart conditions
@@ -93,6 +94,3 @@ Currently not available.
 - lung diseases
 - diabetes
 - age
-
-## 
-
