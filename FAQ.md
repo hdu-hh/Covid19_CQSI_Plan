@@ -29,13 +29,39 @@
 ## Why would anyone volunteer as CQSI candidate?
 
 - most people will be infected anyway
-  - conscious infection allows perfectly time quarantine
-  - avoiding unconcious spreading to loved ones and community
+  - conscious infection allows perfectly timed quarantine
+  - perfect quarantine avoids spreading to loved ones and community
   - controlled and well-provided for quarantine
+
 - certified immunization
   - allows helping where others would introduce risks
   - avoids eventually multiple "dry quarantines"
   - allows leading a "normal life"
+
+## What are key requirements of CQSI candidates?
+
+- low risk factors
+- full conciousness to make the voluntary decision
+- fitness for quarantine in a group
+
+### Who should first get into controlled quarantine?
+
+- infected persons that are fit for group quarantine
+
+### Who should go next into controlled quarantine?
+
+- high probability of existing immunization acquired with least symptoms
+
+### And then?
+
+- persons with lowest risk factors
+
+## Are there other points for candidate priorization?
+
+- persons who would use their certified immunization for the best
+ - for avoiding new infections
+ - for needing less resources to help
+ - for stabilizing the supply chain
 
 ## Don't induced infection waste resources that are desperately needed elsewhere?
 
