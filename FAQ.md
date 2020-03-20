@@ -136,6 +136,15 @@ Yes of course. But only if they are available!
 - immunized people don't have this issues
   - disinfected wares from immunized people are safe
 
+## Even low-risk persons can get into serious health issues!
+
+- since there is a high chance they'd get infected anyway
+  - they'd run into these same issues
+  - they'd get it in a probably unsupervised setting
+  - unkown risk factors can best be identified in CQ
+  - knowing risk factors better reduces the incident rate even more
+- for every low-risk person that runs into problems hundreds become certified immune
+
 ## What are the kown risk factors?
 
 Currently these risk factors are known:
