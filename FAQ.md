@@ -145,6 +145,11 @@ Yes of course. But only if they are available!
   - knowing risk factors better reduces the incident rate even more
 - for every low-risk person that runs into problems hundreds become certified immune
 
+## There is no full self-immunization because it wears off after a while!
+
+- it would buy time until a vaccine becomes available
+- the herd immunization would be achieved faster
+
 ## What are the kown risk factors?
 
 Currently these risk factors are known:
