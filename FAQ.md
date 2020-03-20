@@ -26,7 +26,18 @@
 - checking the motivation
 - checking the fitness for strict quarantine in a group
 
-## don't induced infection waste resources that are desperately needed elsewhere?
+## Why would anyone volunteer as CQSI candidate?
+
+- most people will be infected anyway
+  - conscious infection allows perfectly time quarantine
+  - avoiding unconcious spreading to loved ones and community
+  - controlled and well-provided for quarantine
+- certified immunization
+  - allows helping where others would introduce risks
+  - avoids eventually multiple "dry quarantines"
+  - allows leading a "normal life"
+
+## Don't induced infection waste resources that are desperately needed elsewhere?
 
 - certified immunized persons are the most valuable asset there in a pandemic
 - induced infection and quarantined self-immunization is currently the only way increase the number of certified immunized persons
