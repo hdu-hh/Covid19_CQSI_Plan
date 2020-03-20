@@ -16,7 +16,7 @@
 - monitor feever, blood preasure, lung sounds, etc.
 - recognize and fight secondary infections
 - identify and address emergency situations
-- evaluate indiviual symptoms vs risk factors and alert if no match
+- evaluate indiviual symptoms vs risk factors and alert if mismatch
 - mitigate symptoms
 - address group stress issues
 - monitor the recovery and self-immunization
@@ -66,9 +66,9 @@
 ## Are there other points for candidate priorization?
 
 - persons who would use their certified immunization for the best
- - for avoiding new infections
- - for needing less resources to help
- - for stabilizing the supply chain
+  - for avoiding new infections
+  - for needing less resources to help
+  - for stabilizing the supply chain
 
 ## Don't induced infection waste resources that are desperately needed elsewhere?
 
@@ -94,19 +94,20 @@ Yes of course. But only if they are available!
 - providing for persons of the risk groups
 - producing new resources and revenue
 
-## Are you an MD? are you are virologist? Are you specialist on pandemics? Why are you wasting everbodies time if you are none of these?
+## Are you an MD? are you are virologist? Are you specialist on pandemics? Why are you wasting everbody's time if you are none of these?
 
 - immunized persons are one of the most valuable resources in such a pandemic
 - certified immunized persons are even more valuable resources
-- currently these immunized persons are restricted by the same measures that restrict the general population
-  - from helping others
-  - from keeping up the supply chain
-- this is an obvious mis-allocation of resources
+- currently these immunized persons are
+  - are restricted by the same measures that restrict the general population
+    - from helping others
+    - from keeping up the supply chain
+  - this is an obvious mis-allocation of resources
 - getting the possibly critical role of immunized people into the discussion is worth every effort
 
 ## But immunized persons already have a valuable role in the "herd immunity" model?
 
-- controlling the spread of immunity
+- controlling the spread of immunity by "counter-infections"
   - protects the high risk persons
   - accelerates herd immunization
   - accelerates a general recovery
