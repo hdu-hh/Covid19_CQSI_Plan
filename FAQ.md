@@ -76,6 +76,15 @@
 - certified immunized persons are the most valuable asset there in a pandemic
 - induced infection and quarantined self-immunization is currently the only way increase the number of certified immunized persons
 
+## Cured persons already have "proven immunity" in the current system, so what is the point of CQSI?
+
+- proven-immune persons would get utilized to mimimize uncontrolled spreading
+- many persons with few symptoms self-immunize outside the health system
+  - in countries with the highest infection rates
+    - they are needed most
+    - testing resource are scarce, so there is no proof of infection and immunization
+    - with CQSI the number of proven immunities would be higher by orders of magnitude
+
 ## Aren't vaccinations a much better alternative?
 
 Yes of course. But only if they are available!
