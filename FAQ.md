@@ -150,6 +150,10 @@ Minimizing the total pain of this pandemic is worth every effort.
 - it would buy time until a vaccine becomes available
 - the herd immunization would be achieved faster
 
+## "Proven-immunized" persons could be mis-classified!
+
+CQSI is all about minimizing the total pain and maximizing the probability for achieving this goal. Even non-Dirac shaped probability distributions help to steer the problems to near optimal solutions.
+
 ## What are the kown risk factors?
 
 Currently these risk factors are known:
