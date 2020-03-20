@@ -106,14 +106,14 @@ Yes of course. But only if they are available!
 
 ## Are you an MD? are you are virologist? Are you specialist on pandemics? Why are you wasting everbody's time if you are none of these?
 
-- immunized persons are one of the most valuable resources in such a pandemic
-- certified immunized persons are even more valuable resources
-- currently these immunized persons are
-  - are restricted by the same measures that restrict the general population
+Minimizing the total pain of this pandemic is worth every effort.
+
+- immunized people are key to get out of the crisis
+- certified immunized persons could play critical roles in this optimization problem
+  - currently these immunized persons are restricted by the same measures that restrict the general population
     - from helping others
     - from keeping up the supply chain
   - this is an obvious mis-allocation of resources
-- getting the possibly critical role of immunized people into the discussion is worth every effort
 
 ## But immunized persons already have a valuable role in the "herd immunity" model?
 
@@ -122,18 +122,18 @@ Yes of course. But only if they are available!
   - accelerates herd immunization
   - accelerates a general recovery
 
-## This is all to abstract. Give me a concrete example.
+## This is all to abstract. Give me a concrete example!
 
 - low risk people help high risk people by shopping for them:
   - they get just as infected as others
-  - they spread the virus while infected just as others
+  - they then spread the virus just as others
     - to their loved ones
     - to their community
     - on the wares they are handling
     - to other shopping helpers in the supermarket
     - to the persons they wanted to help
 
-- immunized people don't have this issues
+- immunized people don't have these issues
   - disinfected wares from immunized people are safe
 
 ## Even low-risk persons can get into serious health issues!
@@ -141,9 +141,9 @@ Yes of course. But only if they are available!
 - since there is a high chance they'd get infected anyway
   - they'd run into these same issues
   - they'd get it in a probably unsupervised setting
-  - unkown risk factors can best be identified in CQ
-  - knowing risk factors better reduces the incident rate even more
-- for every low-risk person that runs into problems hundreds become certified immune
+  - unkown risk factors can best be identified in monitored quarantine
+  - improved risk calculations reduces the incident rate even more
+- for every low-risk person that runs into problems hundreds become certified immunized
 
 ## There is no full self-immunization because it wears off after a while!
 
@@ -160,3 +160,4 @@ Currently these risk factors are known:
 - lung diseases
 - diabetes
 - age
+- ...
