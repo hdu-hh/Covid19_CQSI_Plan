@@ -84,3 +84,12 @@ Yes of course. But only if they are available!
 - when a vaccination become available
 - when reliable antibody tests become available and enough people are positive
 - when no suitable candidates are left
+
+## What tasks would be suitable for certified immune persons?
+
+- protecting the supply chain from infection
+  - at the sources
+  - in the distribution chain
+- nursing the sick
+- providing for persons of the risk groups
+- producing new resources and revenue
