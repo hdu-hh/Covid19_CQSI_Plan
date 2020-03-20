@@ -8,18 +8,20 @@
 
 ## What would MDs do in their quarantine groups?
 
-- monitor feever, blood preasure, lung sounds
-- recognize and address secondary infections
+- monitor feever, blood preasure, lung sounds, etc.
+- recognize and fight secondary infections
+- identify and address emergency situations
+- evaluate indiviual symptoms vs risk factors and alert if no match
+- mitigate symptoms
 - address group stress issues
 - monitor the recovery and self-immunization
 
 ## What would immunized MDs do for CQSI candidates?
 
-- checking the risk factors
+- checking for risk factors
 - informing of the risk
 - vetoing high risk volunteers
-- checking the motiv
-- verify the self-immunization
+- verifying the self-immunization
 
 ## What would immunized psychologists do for CQSI candidates?
 
