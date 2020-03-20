@@ -93,3 +93,20 @@ Yes of course. But only if they are available!
 - nursing the sick
 - providing for persons of the risk groups
 - producing new resources and revenue
+
+## Are you an MD? are you are virologist? Are you specialist on pandemics? Why are you wasting everbodies time if you are none of these?
+
+- immunized persons are one of the most valuable resources in such a pandemic
+- certified immunized persons are even more valuable resources
+- currently these immunized persons are restricted by the same measures that restrict the general population
+  - from helping others
+  - from keeping up the supply chain
+- this is an obvious mis-allocation of resources
+- getting the possibly critical role of immunized people into the discussion is worth every effort
+
+## But immunized persons already have a valuable role in the "herd immunity" model?
+
+- controlling the spread of immunity
+  - protects the high risk persons
+  - accelerates herd immunization
+  - accelerates a general recovery
