@@ -3,8 +3,13 @@
 ## MDs are desperately needed for the non-induced infections already!
 
 - there is a large number of infected MDs
-- most of them with feeble symptoms are sent into home quarantine
-- they are perfect candidates as "embedded scientists" in quarantine groups
+  - most of them with feeble symptoms are sent into home quarantine
+  - they are perfect candidates as "embedded scientists" in quarantine groups
+
+- MDs with certified immunization are much more efficient
+    - they have less concerns for self-preservation
+    - they need less resources
+  - they cannot infect uninfected patients
 
 ## What would MDs do in their quarantine groups?
 
