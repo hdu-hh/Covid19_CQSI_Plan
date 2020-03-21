@@ -154,6 +154,13 @@ Low risk people help high risk people by shopping for them:
 
 CQSI is all about minimizing the total pain and maximizing the probability for achieving this goal. Even non-Dirac shaped probability distributions help to steer the problems to near optimal solutions.
 
+## What would MDs do, if they have high risk factors?
+
+The health system needs all the expert help it can get. MDs must be strictly protected. They could
+- either treat only immunized patients
+- or use extensive protection when treating other patients
+  - but only if the resources for this extensive protection are not scarce
+
 ## What are the kown risk factors?
 
 Currently these risk factors are known:
