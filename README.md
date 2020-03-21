@@ -6,22 +6,22 @@ Volunteers with low risk factors should get facilities to self-immunize in a con
 
 ## Axiom
 
-- people with proven immunity are the most valuable resource in this pandemic
+- people with proven immunity are a most valuable resource in this pandemic
 
 ## Current Status of the Pandemic
 
 - there is no vaccination yet
-- there is no test for infection that works immediately after the infection
+- there is no test that works immediately after an infection
 - there is no reliable test for antibodies yet
-- the risk factors of the infection are known
+- the risk factors of the infection are reasonably well known
 - most infected don't know of their infection for at least some days
 - un-quarantined infections drive this pandemic
 - the test coverage of infection candidates is currently way below 100%
-- these candidates are often sent into home-quarantine
+- these candidates are usually sent into home-quarantine
 
 ## No Reliable Self-Immunization Test Available Yet
 
-The only way to prove self-immunization is currently when all of these points are true:
+Currently the only way to prove self-immunization is when all of these points are true:
 
 * infected contact and typical symptoms
 * positive test for Covid-19 infection
@@ -36,18 +36,12 @@ The only way to prove self-immunization is currently when all of these points ar
 
 The difference to a "[measles party](https://en.wikipedia.org/wiki/Pox_party)" is that
 
-- there is no vaccination against CoVid-19 yet
+- there is no vaccination against Covid-19 yet
 - medical pre-examination of the risk factors
 - informed voluntary decision
 - check for motivation and quarantine-ability
 - strict quarantine under medical supervision with monitoring
 - a proven-immunization status after quarantine
-
-## Volunteer Groups
-
-- already infected
-- low-risk candidates
-  - with probable self-immunization
 
 ## Herd-Immunization
 

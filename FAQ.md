@@ -2,14 +2,14 @@
 
 ## MDs are desperately needed for non-induced infections already!
 
-- there is already a large number of infected MDs
-  - most of them with feeble symptoms are sent into home quarantine
-  - they are perfect candidates as "embedded scientists" in quarantine groups
+- there already is a large number of infected MDs
+  - most of them with light symptoms are sent into home quarantine
+  - they would be perfect candidates as "embedded scientists" in quarantine groups
 
 - MDs with certified immunization are much more efficient
-    - they have less concerns for self-preservation
-    - they need less resources
   - they cannot infect uninfected patients
+  - they have less concerns for self-preservation
+  - they need less resources
 
 ## What would MDs do in their quarantine groups?
 
@@ -24,9 +24,9 @@
 ## What would immunized MDs do for CQSI candidates?
 
 - check risk factors
-- inform about the risk
+- inform about the individual risk
 - veto high risk volunteers
-- verify self-immunization
+- double check the candidates' self-immunization
 
 ## What would immunized psychologists do for CQSI candidates?
 
@@ -37,10 +37,10 @@
 
 - most people will be infected anyway
   - conscious infection allows perfectly timed quarantine
-  - perfect quarantine avoids spreading to loved ones and community
-  - controlled and well-provided for quarantine
+  - strict quarantine avoids spreading to loved ones and community
+  - a controlled and well-provided for quarantine
 
-- certified immunization
+- a certified immunization status
   - allows helping where others would introduce risks
   - avoids eventually multiple "dry quarantines"
   - allows leading a "normal life"
@@ -74,16 +74,16 @@
 
 - "[back-burning](https://en.wikipedia.org/wiki/Controlled_burn)" is a proven strategy for fighting [wildfires](https://en.wikipedia.org/wiki/Wildfire)
 - certified immunized persons are the most valuable asset there in a pandemic
-- induced infection and quarantined self-immunization is currently the only way increase the number of certified immunized persons
+- induced infection and quarantined self-immunization is currently the only way to increase the number of certified immunized persons
 
 ## Cured persons already have "proven immunity" in the current system, so what is the point of CQSI?
 
-- proven-immune persons would get utilized to mimimize uncontrolled spreading
+- **with CQSI the number of proven immunities would be higher by orders of magnitude**
+- proven-immune persons would be employed to mimimize uncontrolled spreading
 - many persons with few symptoms self-immunize outside the health system
-  - in countries with the highest infection rates
+  - but in countries with the highest infection rates
     - they are needed most
-    - testing resource are scarce, so there is no proof of infection and immunization
-    - with CQSI the number of proven immunities would be higher by orders of magnitude
+    - testing resource are scarce, so there is no proof of infection and immunization for people with light symptoms
 
 ## Aren't vaccinations a much better alternative?
 
@@ -107,31 +107,31 @@ Yes of course. But only if they are available!
 ## Are you an MD? are you are virologist? Are you specialist on pandemics? Why are you wasting everbody's time if you are none of these?
 
 Minimizing the total pain of this pandemic is worth every effort.
+The service of certified immunized persons in critical roles is essential:
 
-- immunized people are key to get out of the crisis
-- certified immunized persons could play critical roles in this optimization problem
-  - currently these immunized persons are restricted by the same measures that restrict the general population
-    - from helping others
-    - from keeping up the supply chain
-  - this is an obvious mis-allocation of resources
+- currently these immunized persons are restricted by the same measures that restrict the general population
+  - from helping others
+  - from keeping up the supply chain
+- this is an obvious mis-allocation of resources
 
 ## But immunized persons already have a valuable role in the "herd immunity" model?
 
-- controlling the spread of immunity by "counter-infections"
-  - protects the high risk persons
-  - accelerates herd immunization
-  - accelerates a general recovery
+Controlling the spread of immunity by "counter-infections"
+
+- protects the high risk persons
+- accelerates herd immunization
+- accelerates a general recovery
 
 ## This is all to abstract. Give me a concrete example!
 
-- low risk people help high risk people by shopping for them:
-  - they get just as infected as others
-  - they then spread the virus just as others
-    - to their loved ones
-    - to their community
-    - on the wares they are handling
-    - to other shopping helpers in the supermarket
-    - to the persons they wanted to help
+Low risk people help high risk people by shopping for them:
+
+- shopping helpers with unknown immunization status can get infected and then spread the virus
+  - to their loved ones
+  - to their community
+  - on the wares they are handling
+  - to other shopping helpers in the supermarket
+  - to the persons they wanted to help
 
 - immunized people don't have these issues
   - disinfected wares from immunized people are safe
@@ -147,8 +147,8 @@ Minimizing the total pain of this pandemic is worth every effort.
 
 ## There is no full self-immunization because it wears off after a while!
 
-- it would buy time until a vaccine becomes available
-- the herd immunization would be achieved faster
+- it buys time until a vaccine becomes available
+- herd immunization is achieved faster
 
 ## "Proven-immunized" persons could be mis-classified!
 
