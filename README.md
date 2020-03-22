@@ -43,9 +43,15 @@ The difference to a "[measles party](https://en.wikipedia.org/wiki/Pox_party)" i
 - strict quarantine under medical supervision with monitoring
 - a proven-immunization status after quarantine
 
+## Goals
+
+- minimize the total suffering
+- keep the risk and impact to volunteers tolerable
+- buy time until vaccination becomes available
+
 ## Herd-Immunization
 
-The virus is very infectious and already so wide-spread that experts agree, that at least 70% of the population will be infected until **"[herd immunity](https://en.wikipedia.org/wiki/Herd_immunity)" will stop the infection rate**.
+The virus is very infectious and already so widely spread that experts agree, that at least 70% of the population will be infected until **"[herd immunity](https://en.wikipedia.org/wiki/Herd_immunity)" will stop the infection rate**.
 
 ### Alternatives
 
